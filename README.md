@@ -1,4 +1,4 @@
 lab5
 ====
 
-Lab 5: AJAX
+Lab 6: AJAX
