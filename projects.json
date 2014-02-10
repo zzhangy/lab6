@@ -26,5 +26,33 @@
 		"date": "January 30",
 		"summary": "<p>As Carolyn Snyder writes, 'Paper prototyping is a variation of usability testing where the representative users perform realistic tasks by interacting with a paper version of the interface that is manipulated by a person 'playing computer' who doesn't explain how the interface is intended to work.' In this assignment, your group will conduct heuristic evaluations (HEs) of your paper prototypes and you will individually help out other groups by evaluating theirs. This will complete the prototyping phase of the project, providing you with the feedback you need to begin implementing.</p>",
 		"image": "http://searchwide.com/wp-content/uploads/2013/11/evaluation.jpg"
+	},
+	{
+		"id": 5,
+		"title": "Skeleton and a Plan",
+		"date": "February 6",
+		"summary": "<p>Review the feedback you got last week from the Heuristic Evaluations of your prototypes. Distill the HE results into a list of concrete changes you want to make to your prototype. Use what worked, and improve what didn't. If you haven't already, make a decision about the prototype you are going with. This could be one of the two you tested or a combination of them. Again, take the time you need. This is what you will be working on for the rest of the course, so make sure you will feel invested in it.</p>",
+		"image": "http://www.quality-wars.com/wp-content/uploads/Gantt-Chart-Example-2-NO-LETTERS1.jpg"
+	}
+	{
+		"id": 6,
+		"title": "Meat on the Bones",
+		"date": "February 13",
+		"summary": "<p>Functionality functionality functionality! Continue developing your interactive prototypes in accordance with your development plan. Also, update your development plan as you discover more about what you want to prioritize, what you can expect to implement, and what you may need to mock up. The goal is for you to complete the interaction flow this week.</p>",
+		"image": "http://regmedia.co.uk/2011/03/01/node_code.png"
+	}
+	{
+		"id": 7,
+		"title": "Ready for Testing",
+		"date": "February 20",
+		"summary": "<p>Crunch time! Your interactive prototypes have to be <b>ready for user testing</b> by the end of this week.</p>",
+		"image": "http://torontopubliclibrary.typepad.com/.a/6a00e5509ea6a18834019b00ff4518970b-800wi"
+	}
+	{
+		"id": 8,
+		"title": "User Test Results and Online Test Proposal",
+		"date": "February 27",
+		"summary": "<p>The goal of this assignment is to launch a user test. To get the kinks out of your application, first test it with a couple of in-person users.</p><p>Any questions about this assignment should be posed to the forums and will be answered promptly by the staff.</p>",
+		"image": "http://unbounce.com/photos/ab-testing.png"
 	}
 ]
