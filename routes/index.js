@@ -1,4 +1,3 @@
-
 /*
  * GET home page.
  */
@@ -22,19 +21,19 @@ exports.view = function(req, res){
 			'image': 'lorempixel.abstract.1.jpeg',
 			'id': 'project4'
 		},
-		{ 	'name': 'Visualization',
+		{ 	'name': 'Skeleton and a Plan',
 			'image': 'lorempixel.abstract.8.jpeg',
 			'id': 'project5'
 		},
-		{ 	'name': 'Social design',
+		{ 	'name': 'Meat on the Bones',
 			'image': 'lorempixel.people.2.jpeg',
 			'id': 'project6'
 		},
-		{ 	'name': 'Gestural interaction',
+		{ 	'name': 'Ready for Testing',
 			'image': 'lorempixel.technics.2.jpeg',
 			'id': 'project7'
 		},
-		{ 	'name': 'Design tools',
+		{ 	'name': 'User Test Results and Online Test Proposal',
 			'image': 'lorempixel.city.2.jpeg',
 			'id': 'project8'
 		}    	
