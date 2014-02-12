@@ -23,7 +23,8 @@ then
   
   if [ "$user" != "root" ]
   then
-	echo "ERROR: You must run this script with sudo"
+	echo "ERROR: You must run this script with sudo. Enter the following and hit enter."
+	echo "sudo bash lab6/check-setup.sh"
 	exit
   fi
   
@@ -85,6 +86,10 @@ then
 	else
 		echo "Auto install succeeded"
 	fi
+  else
+	echo "Ensuring mongo data directory is set up."
+  	mkdir -p /data/db;
+	chown vagrant /data/db;
   fi
   
   if [ "$heroku_missing" == "1" ]
